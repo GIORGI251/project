@@ -1,0 +1,176 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.icon {
+    width:20px ;
+    height:19px ;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+.Coral {
+    margin: auto;
+}
+
+.parent {
+    display: flex;
+}
+
+.box1 {
+    display: flex;
+}
+
+.button {
+    border: none;
+    font-size: 18px;
+    font-family: roboto;
+}
+
+.button2 {
+    border: none;
+    font-size: 18px;
+    font-family: roboto;
+}
+   
+
+.icon1 {
+    width:20px ;
+    height:20px ;
+    margin-top: 18px;
+    margin-left: -25px;
+}
+
+.icon2 {
+    width:20px ;
+    height:20px ;
+    align-items: center;
+    margin-top: 18px;
+    margin-left: 20px;
+}
+
+.box2 {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 1);
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+@font-face {
+    font-family: OpenSans ;
+    src: url(fonts/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+
+.heading {
+    font-family: OpenSans;
+    display: flex;
+    gap: 20px;
+}
+
+.box3 {
+    margin-left: 120px;
+    margin-top: 120px;
+}
+.box4 {
+    position: relative;
+}
+
+@font-face {
+    font-family: Roboto ;
+    src: url(fonts/Roboto-Regular.ttf);
+}
+
+.heading2 {
+    font-size: 74px;
+    font-family: Roboto ;
+}
+.heading3 {
+    font-size: 50px;
+    text-align: center;
+}
+.heading4 {
+    font-size: 34px;
+    font-family: Roboto ;
+    left: 0;
+    top: 0;
+    position: absolute;
+    transform: rotate(-90deg);
+    
+}
+
+
+
+.text {
+    font-size: 30px;
+    margin-top: -40px;
+}
+
+.img1 {
+    margin-left: 700px;
+    margin-top: -300px;
+}
+.img2 {
+    display: flex;
+    margin-top: -200px;
+}
+.img3 {
+    width:1400px ;
+    height: 70px;
+    margin-top: 200px;
+    margin-left: 70px;
+}
+.img4 {
+    width:648px ;
+    height:648px ;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+.img5 {
+    width:312px ;
+    height:312px ;
+    margin-left: 20px;
+    margin-bottom: 330px;
+}
+.img6 {
+    width:312px ;
+    height:312px ;
+    margin-left: -320px;
+}
+.img7 {
+    width:310px ;
+    height:312px ;
+    margin-bottom:330px ;
+}
+.img8 {
+    width:312px ;
+    height:312px ;
+    margin-left: 1100px;
+    margin-top: -310px;
+}
+
+
+.button3 {
+    border: none;
+    font-size: 29px;
+    font-family: roboto;
+    background-color: rgba(30, 40, 50, 1);
+    color: White;
+    display: flex;
+    width: 223px;
+    height: 72px;
+    background-image: url(fotos/icon2.png);
+}
+
+.list {
+list-style: none;
+width: 330px;
+margin-left: -30px;jnh
+}
+
+
+
+
+
